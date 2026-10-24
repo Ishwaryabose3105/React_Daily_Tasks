@@ -6,7 +6,7 @@ function ProfileCard() {
       {/* Profile Image */}
       <img
         src={`${process.env.PUBLIC_URL}/img/profile.jpeg`}
-        alt="Praveen Kumar"
+        alt="Ishwarya B"
         className="w-28 h-28 rounded-full object-cover object-top mx-auto mt-8 mb-6 border-4 border-gray-200"
       />
 
