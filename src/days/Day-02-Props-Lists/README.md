@@ -32,7 +32,7 @@ I created a student list where student information is passed to a reusable Stude
 
 ## 📁 Files
 
-```text
+---text----
 Day-02-Props-Lists/
 │
 ├── Day2.js
