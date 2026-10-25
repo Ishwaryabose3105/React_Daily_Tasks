@@ -9,7 +9,7 @@ function StudentCard({ name, course, year, skills }) {
         Course: {course}
       </p>
 
-      <p className="text-gray-600">
+      <p className="text-gray-600">                                                                                            
         Year: {year}
       </p>
 
