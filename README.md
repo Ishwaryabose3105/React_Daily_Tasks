@@ -4,7 +4,7 @@ A 7-day React learning journey where I practice React concepts by building small
  
 ## 🌐 Live Demo
 
-https://github.com/Ishwaryabose3105/React_Daily_Tasks/
+https://github.com/Ishwaryabose3105/React_Daily_Tasks
 
 ## 📚 7-Day Learning Plan
 
